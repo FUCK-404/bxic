@@ -4,7 +4,7 @@ Bxi crack version
 
 git clone https://github.com/RINKU-CYBER-404/BXI
 
-cd bxic
+cd BXI
 
 chmod 777 a
 
